@@ -1,0 +1,14 @@
+C:\Users\csi23-doronozcolegio\Desktop\C#\CalculadoraLogica\obj\Debug\net6.0\CalculadoraLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-doronozcolegio\Desktop\C#\CalculadoraLogica\obj\Debug\net6.0\CalculadoraLogica.AssemblyInfoInputs.cache
+C:\Users\csi23-doronozcolegio\Desktop\C#\CalculadoraLogica\obj\Debug\net6.0\CalculadoraLogica.AssemblyInfo.cs
+C:\Users\csi23-doronozcolegio\Desktop\C#\CalculadoraLogica\obj\Debug\net6.0\CalculadoraLogica.csproj.CoreCompileInputs.cache
+C:\Users\csi23-doronozcolegio\Desktop\C#\CalculadoraLogica\bin\Debug\net6.0\CalculadoraLogica.exe
+C:\Users\csi23-doronozcolegio\Desktop\C#\CalculadoraLogica\bin\Debug\net6.0\CalculadoraLogica.deps.json
+C:\Users\csi23-doronozcolegio\Desktop\C#\CalculadoraLogica\bin\Debug\net6.0\CalculadoraLogica.runtimeconfig.json
+C:\Users\csi23-doronozcolegio\Desktop\C#\CalculadoraLogica\bin\Debug\net6.0\CalculadoraLogica.dll
+C:\Users\csi23-doronozcolegio\Desktop\C#\CalculadoraLogica\bin\Debug\net6.0\CalculadoraLogica.pdb
+C:\Users\csi23-doronozcolegio\Desktop\C#\CalculadoraLogica\obj\Debug\net6.0\CalculadoraLogica.dll
+C:\Users\csi23-doronozcolegio\Desktop\C#\CalculadoraLogica\obj\Debug\net6.0\refint\CalculadoraLogica.dll
+C:\Users\csi23-doronozcolegio\Desktop\C#\CalculadoraLogica\obj\Debug\net6.0\CalculadoraLogica.pdb
+C:\Users\csi23-doronozcolegio\Desktop\C#\CalculadoraLogica\obj\Debug\net6.0\CalculadoraLogica.genruntimeconfig.cache
+C:\Users\csi23-doronozcolegio\Desktop\C#\CalculadoraLogica\obj\Debug\net6.0\ref\CalculadoraLogica.dll
